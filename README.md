@@ -21,7 +21,9 @@ This project implements a tiny neural network from scratch using Python without 
 ## Output
 Training loss decreases over epochs as shown below:
 
-![Training Loss](loss_plot.png)
+![Training Loss]
+<img width="640" height="480" alt="loss_plot" src="https://github.com/user-attachments/assets/2028fd60-813f-4468-9d1b-1b2ddff72e4c" />
+
 
 ## How to Run
 ```bash
